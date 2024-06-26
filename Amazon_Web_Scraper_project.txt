@@ -1,0 +1,2 @@
+link https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb
+video https://youtu.be/HiOtQMcI5wg?si=Y06oH1EOr73qlSvi
